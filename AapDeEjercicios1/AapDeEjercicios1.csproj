@@ -52,8 +52,101 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_3_2_5_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_3_2_5_3.Designer.cs">
+      <DependentUpon>F_3_2_5_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_3_2_5_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_3_2_5_4.Designer.cs">
+      <DependentUpon>F_3_2_5_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_3_2_6_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_3_2_6_2.Designer.cs">
+      <DependentUpon>F_3_2_6_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_3_3_2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_3_3_2_1.Designer.cs">
+      <DependentUpon>F_3_3_2_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_3_4_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_3_4_2.Designer.cs">
+      <DependentUpon>F_3_4_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_4_1_1_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_4_1_1_2.Designer.cs">
+      <DependentUpon>F_4_1_1_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_4_1_2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_4_1_2_1.Designer.cs">
+      <DependentUpon>F_4_1_2_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_4_1_3_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_4_1_3_7.Designer.cs">
+      <DependentUpon>F_4_1_3_7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_4_1_3_8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_4_1_3_8.Designer.cs">
+      <DependentUpon>F_4_1_3_8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_intro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_intro.Designer.cs">
+      <DependentUpon>F_intro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_3_2_5_3.resx">
+      <DependentUpon>F_3_2_5_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_3_2_5_4.resx">
+      <DependentUpon>F_3_2_5_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_3_2_6_2.resx">
+      <DependentUpon>F_3_2_6_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_3_3_2_1.resx">
+      <DependentUpon>F_3_3_2_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_3_4_2.resx">
+      <DependentUpon>F_3_4_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_4_1_1_2.resx">
+      <DependentUpon>F_4_1_1_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_4_1_2_1.resx">
+      <DependentUpon>F_4_1_2_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_4_1_3_7.resx">
+      <DependentUpon>F_4_1_3_7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_4_1_3_8.resx">
+      <DependentUpon>F_4_1_3_8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_intro.resx">
+      <DependentUpon>F_intro.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
